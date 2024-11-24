@@ -1,0 +1,66 @@
+[IP Header] Source IP:192.168.0.17 Destination IP:210.220.163.82 Length:78 PrtNum:17
+[UDP Header] Source Port:57514 Destination Port:53 Checksum:13255 DatagramLength:58
+[Application Layer] Protocol: DNS, Query:mobile.events.data.microsoft.com. Quetype:1 Transaction ID:29762
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:192.168.0.17 Destination IP:210.220.163.82 Length:78 PrtNum:17
+[UDP Header] Source Port:50960 Destination Port:53 Checksum:291 DatagramLength:58
+[Application Layer] Protocol: DNS, Query:mobile.events.data.microsoft.com. Quetype:65 Transaction ID:49216
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:210.220.163.82 Destination IP:192.168.0.17 Length:242 PrtNum:17
+[UDP Header] Source Port:53 Destination Port:50960 Checksum:27563 DatagramLength:222
+[Application Layer] Protocol: DNS, Response Quetype:65 Transaction ID:49216
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:210.220.163.82 Destination IP:192.168.0.17 Length:210 PrtNum:17
+[UDP Header] Source Port:53 Destination Port:57514 Checksum:36062 DatagramLength:190
+[Application Layer] Protocol: DNS, Response Quetype:1 Transaction ID:29762
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:192.168.0.17 Destination IP:210.220.163.82 Length:78 PrtNum:17
+[UDP Header] Source Port:65264 Destination Port:53 Checksum:58819 DatagramLength:58
+[Application Layer] Protocol: DNS, Query:mobile.events.data.microsoft.com. Quetype:1 Transaction ID:41983
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:210.220.163.82 Destination IP:192.168.0.17 Length:203 PrtNum:17
+[UDP Header] Source Port:53 Destination Port:65264 Checksum:7317 DatagramLength:183
+[Application Layer] Protocol: DNS, Response Quetype:1 Transaction ID:41983
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:192.168.0.143 Destination IP:224.0.0.251 Length:110 PrtNum:17
+[UDP Header] Source Port:5353 Destination Port:5353 Checksum:21319 DatagramLength:90
+[Application Layer] Protocol: DNS, Query:_companion-link._tcp.local. Quetype:12 Transaction ID:0
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:192.168.0.143 Destination IP:224.0.0.251 Length:110 PrtNum:17
+[UDP Header] Source Port:5353 Destination Port:5353 Checksum:54088 DatagramLength:90
+[Application Layer] Protocol: DNS, Query:_companion-link._tcp.local. Quetype:12 Transaction ID:0
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:192.168.0.143 Destination IP:224.0.0.251 Length:110 PrtNum:17
+[UDP Header] Source Port:5353 Destination Port:5353 Checksum:54088 DatagramLength:90
+[Application Layer] Protocol: DNS, Query:_companion-link._tcp.local. Quetype:12 Transaction ID:0
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:192.168.0.17 Destination IP:210.220.163.82 Length:78 PrtNum:17
+[UDP Header] Source Port:65264 Destination Port:53 Checksum:44522 DatagramLength:58
+[Application Layer] Protocol: DNS, Query:mobile.events.data.microsoft.com. Quetype:1 Transaction ID:56280
+
+------------------------------------------------------------------------------------
+
+[IP Header] Source IP:210.220.163.82 Destination IP:192.168.0.17 Length:198 PrtNum:17
+[UDP Header] Source Port:53 Destination Port:65264 Checksum:668 DatagramLength:178
+[Application Layer] Protocol: DNS, Response Quetype:1 Transaction ID:56280
+
+------------------------------------------------------------------------------------
+
